@@ -1,0 +1,7 @@
+{
+	"eslint.execArgv": null,
+	"eslint.nodeEnv": "",
+	"eslint.codeActionsOnSave.rules": null,
+	"eslint.codeActionsOnSave.mode": "problems",
+	"editor.formatOnSave": true
+}
